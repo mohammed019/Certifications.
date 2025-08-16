@@ -1,19 +1,25 @@
-Description:
- The Career Essentials in Data Analysis certification by Microsoft and LinkedIn provided an in-depth introduction to data analysis techniques, tools, and industry practices, equipping me with essential skills to analyze, interpret, and present data insights effectively. Key learning areas included:
+ Motivated and detail-oriented Data Analyst with strong knowledge of data analysis, data visualization, and 
+reporting. Proficient in SQL, Excel, Power BI, and Tableau for creating dashboards and reports. Familiar 
+with Python for data cleaning, manipulation, and exploratory data analysis (EDA) using Pandas and NumPy. 
+Strong understanding of data wrangling, data-driven decision-making, and business intelligence. A quick 
+learner with strong problem-solving skills, ready to learn new technologies and tools, and excited to give 
+direction to my career. Happy and confident to start my journey as a Data Analyst or any Role in Software 
+field, contributing to real-world business problems and growth.
 
-**Data Manipulation & Cleaning:
-**Developed proficiency in organizing, cleaning, and managing data for analysis using tools like Excel and SQL.
-Learned methods for handling missing values, detecting anomalies, and preparing data sets for analytical processing.
-Practiced various techniques for data wrangling, ensuring datasets are structured and ready for insights.
+** Programming & Data Analysis:**
+ • Proficient in Python for data analysis using libraries like Pandas, NumPy. 
+ • Skilled in performing data cleaning, wrangling, and exploratory data analysis (EDA) using Jupyter Notebook.
+   Data Visualization & BI Tools
+ • Experienced in creating interactive dashboards and reports using Power BI (DAX, Power Query, Report 
+   Builder) and Tableau (Dashboards, Storytelling, Filters, LOD). 
+ • Advanced Excel skills including Pivot Tables, VLOOKUP, Charts, Data Validation, and Conditional Formatting.
+ 
+**Databases & SQL:**
+ • Strong command of SQL for data extraction and transformation, including Joins, Subqueries, CTEs, 
+   Window Functions, and Aggregations. 
+ • Familiar with relational databases like MySQL and PostgreSQL. Understanding of basic data modeling 
+    concepts.
 
-**Data Visualization & Storytelling with Data:**
-Gained hands-on experience with Microsoft Power BI to create interactive dashboards and reports.
-Learned best practices for visualizing data, selecting the right chart types, and designing reports that communicate insights effectively to stakeholders.
-Focused on storytelling with data, using visual elements to highlight trends, patterns, and actionable insights.
-
-Skills Gained:
-Data Manipulation: Excel, SQL, data cleaning techniques.
-Data Visualization: Power BI, creating visual reports, storytelling with data.
-Statistical Analysis: Understanding descriptive and inferential statistics, data-driven insights.
-
-This certification has enhanced my data analysis skills, preparing me to use data as a strategic asset in solving business problems, optimizing performance, and enabling smarter, data-driven decisions across a range of industry scenarios.
+ **Tools & Platforms:**
+ • Hands-on experience with MS Excel, SQL, Power BI, Tableau, Jupyter Notebook, and VS Code for end-to-end 
+   data analysis workflows.
