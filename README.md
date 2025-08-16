@@ -1,4 +1,5 @@
-Description: The Career Essentials in Data Analysis certification by Microsoft and LinkedIn provided an in-depth introduction to data analysis techniques, tools, and industry practices, equipping me with essential skills to analyze, interpret, and present data insights effectively. Key learning areas included:
+Description:
+ The Career Essentials in Data Analysis certification by Microsoft and LinkedIn provided an in-depth introduction to data analysis techniques, tools, and industry practices, equipping me with essential skills to analyze, interpret, and present data insights effectively. Key learning areas included:
 
 **Data Manipulation & Cleaning:
 **Developed proficiency in organizing, cleaning, and managing data for analysis using tools like Excel and SQL.
